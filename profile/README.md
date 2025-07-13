@@ -1,6 +1,13 @@
 <div align="center">
+
+
+# KU Students APP
+
+SAS.2
+
+</div><div align="center">
   <img src="https://github.com/BorneLabs/KU-Students-APP/blob/main/Assets/KU%20Students%20APP%20Transparent%20logo.png" alt="KU Students APP Logo" width="50%">
-  <h1 style="font-family: 'Playfair Display', serif;">KU Students APP</h1>
+  
 </div>
 
 ## **Overview**
